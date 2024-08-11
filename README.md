@@ -34,9 +34,6 @@ The dashboard allows users to visualize and analyze e-commerce sales data across
 
     You can install the required Python libraries using pip:
 
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 3. **Add your dataset**:
 
